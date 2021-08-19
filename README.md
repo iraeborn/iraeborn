@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Olá, meu nome é Iraê Bornholdt!
  <div>
   <a href="https://github.com/iraeborn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iraeborn&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
